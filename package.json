@@ -51,7 +51,7 @@
     "lodash": "^4.17.4",
     "lru-cache": "^4.1.1",
     "mkdirp": "^0.5.1",
-    "mockjs": "1.0.1-beta3",
+    "mockjs": "git+https://github.com/nihaoye/Mock.git",
     "moment": "^2.20.1",
     "mongoose": "^4.13.9",
     "path-to-regexp": "^2.1.0",
